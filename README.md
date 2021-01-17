@@ -8,8 +8,8 @@
 - 👉 Fun fact: I love to click pictures
 
   <p>
-  <img align="left" alt="Dipta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlygraphy23&show_icons=true&hide_border=true&count_private=true" width="350" />
-  <img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlygraphy23&langs_count=8&layout=compact" width="350"/>
+  <img align="left" alt="Dipta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlygraphy23&show_icons=true&hide_border=true&count_private=true" width="350" /> </p>
+   <p>&nbsp;<img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlygraphy23&langs_count=8&layout=compact" width="350"/>
   </p>
 
   <br/>
