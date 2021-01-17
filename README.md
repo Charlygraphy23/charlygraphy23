@@ -22,6 +22,8 @@
   <p align="center">
 
 ![Progress](https://progress-bar.dev/70/) <strong>React Js </strong>
+![Progress](https://progress-bar.dev/70/) <strong>Html </strong>
+![Progress](https://progress-bar.dev/70/) <strong>CSS </strong>
 ![Progress](https://progress-bar.dev/50/) <strong>NodeJS </strong>
 ![Progress](https://progress-bar.dev/70/) <strong>MongoDb </strong>
 ![Progress](https://progress-bar.dev/50/) <strong>Next Js </strong></p>
