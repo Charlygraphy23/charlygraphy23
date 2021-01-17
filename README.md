@@ -1,4 +1,4 @@
-### Hi there, I'm Dipta - aka [charlygraphy23][website] 👋
+### Hi there, I'm Dipta - aka charlygraphy23 👋
 
   <p>
   <img align="left" alt="Dipta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlygraphy23&show_icons=true&hide_border=true&count_private=true" width="350" />
@@ -8,12 +8,13 @@
   <br/>
   <br/>
 
+<p>
 ## I'm a Son , Developer and Learner!!
 
 - 👉 I’m currently learning everything 😅
 - 👉 I’m looking for a peacefull workspace 👔
 - 👉 2021 Goals: Build new projects and learn from mistakes
-- 👉 Fun fact: I love to click pictures
+- 👉 Fun fact: I love to click pictures</p>
 
 ## <p><strong>Tools</strong></p>
 
