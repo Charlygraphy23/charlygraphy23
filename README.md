@@ -1,7 +1,9 @@
 ### Hi there, I'm Dipta - aka [charlygraphy23][website] 👋
 
+  <p>
   <img align="left" alt="Dipta's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlygraphy23&show_icons=true&hide_border=true&count_private=true" />
   <img align="left" alt="Languages Use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlygraphy23&langs_count=8" />
+  </p>
 
   <br/>
   <br/>
@@ -11,7 +13,16 @@
 - 👉 I’m currently learning everything 😅
 - 👉 I’m looking for a peacefull workspace 👔
 - 👉 2021 Goals: Build new projects and learn from mistakes
-- 👉 Fun fact: I love to click pictures 😸
+- 👉 Fun fact: I love to click pictures
+
+## <p><strong>Tools</strong></p>
+
+  <p align="center">
+
+![Progress](https://progress-bar.dev/70/) <strong>React Js </strong>
+![Progress](https://progress-bar.dev/50/) <strong>NodeJS </strong>
+![Progress](https://progress-bar.dev/70/) <strong>MongoDb </strong>
+![Progress](https://progress-bar.dev/50/) <strong>Next Js </strong></p>
 
 ### Connect with me:
 
