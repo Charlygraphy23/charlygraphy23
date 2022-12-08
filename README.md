@@ -19,6 +19,10 @@
 
 ---
 
+## Notion Docs (By me)
+
+#### Javacript - [here](https://galvanized-wormhole-a98.notion.site/Javascript-Basics-d9d892f4534348aa9cb5a6e7d81730c3)
+
 ## <p><strong>Tools</strong></p>
 
   <p align="center">
